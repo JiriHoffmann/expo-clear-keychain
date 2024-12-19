@@ -1,1 +1,1 @@
-export const empty = '';
+export default null;

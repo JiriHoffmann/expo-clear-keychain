@@ -8,18 +8,6 @@ Clear iOS keychain
 npm install expo-clear-keychain
 ```
 
-## Usage
-
-
-```js
-import { multiply } from 'expo-clear-keychain';
-
-// ...
-
-const result = multiply(3, 7);
-```
-
-
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.

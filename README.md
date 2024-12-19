@@ -1,6 +1,6 @@
 # expo-clear-keychain
 
-Clear iOS keychain
+Add a settings switch to clear app keychain data on next launch
 
 ## Installation
 

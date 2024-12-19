@@ -8,6 +8,16 @@ Add a settings switch to clear app keychain data on next launch
 npm install expo-clear-keychain
 ```
 
+Add plugin to `app.config.*` file
+
+```ts
+
+ plugins: [
+      // ... other plugins
+      'expo-clear-keychain',
+    ],
+```
+
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.

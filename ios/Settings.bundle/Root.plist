@@ -12,7 +12,7 @@
 			<key>Key</key>
 			<string>ClearKeychainSwitch</string>
 			<key>DefaultValue</key>
-			<true/>
+			<false/>
 		</dict>
 	</array>
 </dict>
